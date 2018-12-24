@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "timeo",
+    "alias": "timeo",
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }
+    ]
+}

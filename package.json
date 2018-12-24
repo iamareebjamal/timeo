@@ -1,0 +1,16 @@
+{
+  "name": "timeo",
+  "version": "1.0.0",
+  "description": "A time server",
+  "main": "index.js",
+  "repository": "https://github.com/iamareebjamal/timeo",
+  "author": "iamareebjamal",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "luxon": "^1.8.3"
+  }
+}
